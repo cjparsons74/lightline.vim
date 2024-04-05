@@ -47,4 +47,4 @@ let s:p.tabline.tabsel = [[ s:base01, s:green ], [s:green, s:base01]]
 let s:p.tabline.middle = [[ s:green_light, s:base01 ], [s:green, s:base01]]
 let s:p.tabline.right = [[ s:green, s:base01 ], [s:green, s:base01]]
 
-let g:lightline#colorscheme#falcon#palette = lightline#colorscheme#fill(s:p)
+let g:lightline#colorscheme#falconish#palette = lightline#colorscheme#fill(s:p)
